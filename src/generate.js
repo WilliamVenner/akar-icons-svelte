@@ -46,18 +46,22 @@ fs.readdir('./src/svg', (err, files) => {
     index.write(`export { default as ${component} } from './icons/${component}.svelte';\n`);
 
     const componentSvelte = filled ?
-
 // FILLED
 `<script>
   import ${component} from '../svg-clean/${svg}.svg';
   export let size = "24";
   export let color = "currentColor";
+
+  let _class;
+  export { _class as class };
 </script>
 
 <${component}
+  class={\`icon \${_class || ''}\`}
   fill={color}
   width={size} height={size}
-{...$$props}/>`
+  {...$$props}
+/>`
 
 :
 
@@ -69,16 +73,21 @@ fs.readdir('./src/svg', (err, files) => {
   export let strokeWidth = "2";
   export let strokeLinecap="round";
   export let strokeLinejoin="round";
+
+  let _class;
+  export { _class as class };
 </script>
 
 <${component}
-fill="none"
-width={size} height={size}
-stroke={color}
-stroke-width={strokeWidth}
-stroke-linecap={strokeLinecap}
-stroke-linejoin={strokeLinejoin}
-{...$$props}/>`;
+  class={\`icon \${_class || ''}\`}
+  fill="none"
+  width={size} height={size}
+  stroke={color}
+  stroke-width={strokeWidth}
+  stroke-linecap={strokeLinecap}
+  stroke-linejoin={strokeLinejoin}
+  {...$$props}
+/>`;
 
     fs.writeFile(`./src/icons/${component}.svelte`, componentSvelte, noop);
   });
