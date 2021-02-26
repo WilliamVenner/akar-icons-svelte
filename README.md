@@ -2,7 +2,7 @@
   <img alt="akar icons" src="https://repository-images.githubusercontent.com/306119910/c3a57000-2be0-11eb-88a2-2714f9bafcd4">
 </a>
 
-# Akar Icons
+# Akar Icons (Svelte)
 A perfectly rounded icon library made for designers, developers, and pretty much everyone.
 
 ---
@@ -17,43 +17,39 @@ Akar icons are currently available as individual React components. Start using i
 Install with npm:
 
 ```shell
-npm install --save akar-icons
+npm install --save akar-icons-svelte
 ```
 
 ### 2. Usage
-Import the icons you need into your React project and declare them in your render method:
+Import the icons you need into your Svelte project and use them in components:
 
-```jsx
-import { ArrowRight, Star, LinkOut } from 'akar-icons';
+```html
+<script>
+  import { ArrowRight, Star, LinkOut } from 'akar-icons-svelte';
+</script>
 
-const MyComponent = () => {
-  return (
-    <div>
-      <ArrowRight />
-      <Star />
-      <LinkOut />
-    </div>
-  );
-};
-
-export default MyComponent;
+<main>
+  <ArrowRight />
+  <Star />
+  <LinkOut />
+</main>
 ```
 
 Icons can be configured with inline props including inline ```style``` objects:
 
-```jsx
+```html
 <Star color="yellow" size={32} strokeWidth={3} />
 ```
 
 You can also import the whole icon library:
-```jsx
-import * as Icon from 'akar-icons';
+```html
+<script>
+  import * as Icon from 'akar-icons-svelte';
+</script>
 
-const MyComponent = () => {
-  return <Icon.ArrowRight />
-};
-
-export default MyComponent;
+<main>
+  <Icon.ArrowRight />
+</main>
 ```
 
 Explore all icons at [akaricons.com](https://akaricons.com).
@@ -63,3 +59,6 @@ Arturo Wibawa ([@agwibawa](https://twitter.com/agwibawa))
 
 ## License
 [MIT License](./LICENSE), Copyright © 2020-present Arturo Wibawa.
+
+## Credits
+Svelte Support by [WilliamVenner](https://github.com/WilliamVenner)
