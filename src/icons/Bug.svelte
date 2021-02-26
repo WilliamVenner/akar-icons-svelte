@@ -1,5 +1,5 @@
 <script>
-  import Bug from '../svg/bug.svg';
+  import Bug from '../svg-clean/bug.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

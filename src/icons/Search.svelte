@@ -1,5 +1,5 @@
 <script>
-  import Search from '../svg/search.svg';
+  import Search from '../svg-clean/search.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

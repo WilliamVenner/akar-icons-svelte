@@ -1,5 +1,5 @@
 <script>
-  import Water from '../svg/water.svg';
+  import Water from '../svg-clean/water.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

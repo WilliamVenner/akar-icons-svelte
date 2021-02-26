@@ -1,5 +1,5 @@
 <script>
-  import Mention from '../svg/mention.svg';
+  import Mention from '../svg-clean/mention.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

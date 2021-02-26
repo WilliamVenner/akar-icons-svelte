@@ -1,5 +1,5 @@
 <script>
-  import TrashBin from '../svg/trash-bin.svg';
+  import TrashBin from '../svg-clean/trash-bin.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

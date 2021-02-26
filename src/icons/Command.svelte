@@ -1,5 +1,5 @@
 <script>
-  import Command from '../svg/command.svg';
+  import Command from '../svg-clean/command.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

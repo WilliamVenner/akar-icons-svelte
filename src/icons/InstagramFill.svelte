@@ -1,5 +1,5 @@
 <script>
-  import InstagramFill from '../svg/instagram-fill.svg';
+  import InstagramFill from '../svg-clean/instagram-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

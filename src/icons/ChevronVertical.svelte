@@ -1,5 +1,5 @@
 <script>
-  import ChevronVertical from '../svg/chevron-vertical.svg';
+  import ChevronVertical from '../svg-clean/chevron-vertical.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

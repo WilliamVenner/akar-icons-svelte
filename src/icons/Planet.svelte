@@ -1,5 +1,5 @@
 <script>
-  import Planet from '../svg/planet.svg';
+  import Planet from '../svg-clean/planet.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Circle from '../svg/circle.svg';
+  import Circle from '../svg-clean/circle.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

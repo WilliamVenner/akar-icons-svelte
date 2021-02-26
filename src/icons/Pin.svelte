@@ -1,5 +1,5 @@
 <script>
-  import Pin from '../svg/pin.svg';
+  import Pin from '../svg-clean/pin.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

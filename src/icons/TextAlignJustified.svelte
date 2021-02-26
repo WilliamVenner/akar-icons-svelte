@@ -1,5 +1,5 @@
 <script>
-  import TextAlignJustified from '../svg/text-align-justified.svg';
+  import TextAlignJustified from '../svg-clean/text-align-justified.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

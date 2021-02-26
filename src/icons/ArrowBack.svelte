@@ -1,5 +1,5 @@
 <script>
-  import ArrowBack from '../svg/arrow-back.svg';
+  import ArrowBack from '../svg-clean/arrow-back.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

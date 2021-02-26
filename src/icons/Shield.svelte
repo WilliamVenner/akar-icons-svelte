@@ -1,5 +1,5 @@
 <script>
-  import Shield from '../svg/shield.svg';
+  import Shield from '../svg-clean/shield.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import DribbbleFill from '../svg/dribbble-fill.svg';
+  import DribbbleFill from '../svg-clean/dribbble-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

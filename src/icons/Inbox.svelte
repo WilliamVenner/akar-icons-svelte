@@ -1,5 +1,5 @@
 <script>
-  import Inbox from '../svg/inbox.svg';
+  import Inbox from '../svg-clean/inbox.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import ArrowUpLeft from '../svg/arrow-up-left.svg';
+  import ArrowUpLeft from '../svg-clean/arrow-up-left.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

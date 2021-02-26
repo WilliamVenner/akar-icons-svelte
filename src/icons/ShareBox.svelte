@@ -1,5 +1,5 @@
 <script>
-  import ShareBox from '../svg/share-box.svg';
+  import ShareBox from '../svg-clean/share-box.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

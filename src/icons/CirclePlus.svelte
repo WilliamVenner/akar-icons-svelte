@@ -1,5 +1,5 @@
 <script>
-  import CirclePlus from '../svg/circle-plus.svg';
+  import CirclePlus from '../svg-clean/circle-plus.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

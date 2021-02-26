@@ -1,5 +1,5 @@
 <script>
-  import Calculator from '../svg/calculator.svg';
+  import Calculator from '../svg-clean/calculator.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

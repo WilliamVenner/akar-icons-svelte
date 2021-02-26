@@ -1,5 +1,5 @@
 <script>
-  import LinkOn from '../svg/link-on.svg';
+  import LinkOn from '../svg-clean/link-on.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

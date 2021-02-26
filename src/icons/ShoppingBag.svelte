@@ -1,5 +1,5 @@
 <script>
-  import ShoppingBag from '../svg/shopping-bag.svg';
+  import ShoppingBag from '../svg-clean/shopping-bag.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

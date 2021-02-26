@@ -1,5 +1,5 @@
 <script>
-  import TwitterFill from '../svg/twitter-fill.svg';
+  import TwitterFill from '../svg-clean/twitter-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

@@ -1,5 +1,5 @@
 <script>
-  import Eye from '../svg/eye.svg';
+  import Eye from '../svg-clean/eye.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

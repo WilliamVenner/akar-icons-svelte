@@ -1,5 +1,5 @@
 <script>
-  import BatteryFull from '../svg/battery-full.svg';
+  import BatteryFull from '../svg-clean/battery-full.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

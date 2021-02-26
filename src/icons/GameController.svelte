@@ -1,5 +1,5 @@
 <script>
-  import GameController from '../svg/game-controller.svg';
+  import GameController from '../svg-clean/game-controller.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

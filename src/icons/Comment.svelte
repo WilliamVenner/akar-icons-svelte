@@ -1,5 +1,5 @@
 <script>
-  import Comment from '../svg/comment.svg';
+  import Comment from '../svg-clean/comment.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

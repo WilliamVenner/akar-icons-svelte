@@ -1,5 +1,5 @@
 <script>
-  import CircleCheck from '../svg/circle-check.svg';
+  import CircleCheck from '../svg-clean/circle-check.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

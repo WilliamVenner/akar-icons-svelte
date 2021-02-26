@@ -1,5 +1,5 @@
 <script>
-  import Miniplayer from '../svg/miniplayer.svg';
+  import Miniplayer from '../svg-clean/miniplayer.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

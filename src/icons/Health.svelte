@@ -1,5 +1,5 @@
 <script>
-  import Health from '../svg/health.svg';
+  import Health from '../svg-clean/health.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

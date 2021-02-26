@@ -1,5 +1,5 @@
 <script>
-  import AirplayAudio from '../svg/airplay-audio.svg';
+  import AirplayAudio from '../svg-clean/airplay-audio.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Computing from '../svg/computing.svg';
+  import Computing from '../svg-clean/computing.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

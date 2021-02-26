@@ -1,5 +1,5 @@
 <script>
-  import ArrowDownLeft from '../svg/arrow-down-left.svg';
+  import ArrowDownLeft from '../svg-clean/arrow-down-left.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

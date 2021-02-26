@@ -1,5 +1,5 @@
 <script>
-  import Home from '../svg/home.svg';
+  import Home from '../svg-clean/home.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

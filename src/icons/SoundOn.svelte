@@ -1,5 +1,5 @@
 <script>
-  import SoundOn from '../svg/sound-on.svg';
+  import SoundOn from '../svg-clean/sound-on.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

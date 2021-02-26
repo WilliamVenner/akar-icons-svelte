@@ -1,5 +1,5 @@
 <script>
-  import Coffee from '../svg/coffee.svg';
+  import Coffee from '../svg-clean/coffee.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

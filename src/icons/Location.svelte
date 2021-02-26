@@ -1,5 +1,5 @@
 <script>
-  import Location from '../svg/location.svg';
+  import Location from '../svg-clean/location.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Check from '../svg/check.svg';
+  import Check from '../svg-clean/check.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

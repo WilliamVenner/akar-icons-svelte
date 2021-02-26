@@ -1,5 +1,5 @@
 <script>
-  import ZoomOut from '../svg/zoom-out.svg';
+  import ZoomOut from '../svg-clean/zoom-out.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

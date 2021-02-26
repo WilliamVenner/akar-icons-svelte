@@ -1,5 +1,5 @@
 <script>
-  import VictoryHand from '../svg/victory-hand.svg';
+  import VictoryHand from '../svg-clean/victory-hand.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

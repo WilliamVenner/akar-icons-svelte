@@ -1,5 +1,5 @@
 <script>
-  import FacebookFill from '../svg/facebook-fill.svg';
+  import FacebookFill from '../svg-clean/facebook-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

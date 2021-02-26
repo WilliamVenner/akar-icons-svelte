@@ -1,5 +1,5 @@
 <script>
-  import Play from '../svg/play.svg';
+  import Play from '../svg-clean/play.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

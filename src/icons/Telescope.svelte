@@ -1,5 +1,5 @@
 <script>
-  import Telescope from '../svg/telescope.svg';
+  import Telescope from '../svg-clean/telescope.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

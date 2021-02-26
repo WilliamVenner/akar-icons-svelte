@@ -1,5 +1,5 @@
 <script>
-  import GithubFill from '../svg/github-fill.svg';
+  import GithubFill from '../svg-clean/github-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

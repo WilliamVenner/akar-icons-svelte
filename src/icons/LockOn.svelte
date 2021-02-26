@@ -1,5 +1,5 @@
 <script>
-  import LockOn from '../svg/lock-on.svg';
+  import LockOn from '../svg-clean/lock-on.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Camera from '../svg/camera.svg';
+  import Camera from '../svg-clean/camera.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Grid from '../svg/grid.svg';
+  import Grid from '../svg-clean/grid.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

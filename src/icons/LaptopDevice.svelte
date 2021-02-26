@@ -1,5 +1,5 @@
 <script>
-  import LaptopDevice from '../svg/laptop-device.svg';
+  import LaptopDevice from '../svg-clean/laptop-device.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

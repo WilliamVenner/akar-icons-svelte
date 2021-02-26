@@ -1,5 +1,5 @@
 <script>
-  import ArrowForward from '../svg/arrow-forward.svg';
+  import ArrowForward from '../svg-clean/arrow-forward.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

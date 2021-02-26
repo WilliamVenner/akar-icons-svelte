@@ -1,5 +1,5 @@
 <script>
-  import RedditFill from '../svg/reddit-fill.svg';
+  import RedditFill from '../svg-clean/reddit-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

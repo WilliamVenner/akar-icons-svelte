@@ -1,5 +1,5 @@
 <script>
-  import ZoomIn from '../svg/zoom-in.svg';
+  import ZoomIn from '../svg-clean/zoom-in.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

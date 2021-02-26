@@ -1,5 +1,5 @@
 <script>
-  import Plane from '../svg/plane.svg';
+  import Plane from '../svg-clean/plane.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import ArrowCycle from '../svg/arrow-cycle.svg';
+  import ArrowCycle from '../svg-clean/arrow-cycle.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

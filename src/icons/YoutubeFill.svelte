@@ -1,5 +1,5 @@
 <script>
-  import YoutubeFill from '../svg/youtube-fill.svg';
+  import YoutubeFill from '../svg-clean/youtube-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

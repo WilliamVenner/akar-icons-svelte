@@ -1,5 +1,5 @@
 <script>
-  import Cross from '../svg/cross.svg';
+  import Cross from '../svg-clean/cross.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

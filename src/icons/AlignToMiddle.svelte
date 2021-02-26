@@ -1,5 +1,5 @@
 <script>
-  import AlignToMiddle from '../svg/align-to-middle.svg';
+  import AlignToMiddle from '../svg-clean/align-to-middle.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

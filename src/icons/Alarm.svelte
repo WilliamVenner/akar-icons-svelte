@@ -1,5 +1,5 @@
 <script>
-  import Alarm from '../svg/alarm.svg';
+  import Alarm from '../svg-clean/alarm.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

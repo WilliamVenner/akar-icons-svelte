@@ -1,5 +1,5 @@
 <script>
-  import ChevronLeft from '../svg/chevron-left.svg';
+  import ChevronLeft from '../svg-clean/chevron-left.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

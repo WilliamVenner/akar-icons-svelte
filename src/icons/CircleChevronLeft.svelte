@@ -1,5 +1,5 @@
 <script>
-  import CircleChevronLeft from '../svg/circle-chevron-left.svg';
+  import CircleChevronLeft from '../svg-clean/circle-chevron-left.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

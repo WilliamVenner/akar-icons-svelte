@@ -1,5 +1,5 @@
 <script>
-  import SoundOff from '../svg/sound-off.svg';
+  import SoundOff from '../svg-clean/sound-off.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

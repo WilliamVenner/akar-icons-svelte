@@ -1,5 +1,5 @@
 <script>
-  import Gear from '../svg/gear.svg';
+  import Gear from '../svg-clean/gear.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

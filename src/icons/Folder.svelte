@@ -1,5 +1,5 @@
 <script>
-  import Folder from '../svg/folder.svg';
+  import Folder from '../svg-clean/folder.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import BitcoinFill from '../svg/bitcoin-fill.svg';
+  import BitcoinFill from '../svg-clean/bitcoin-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

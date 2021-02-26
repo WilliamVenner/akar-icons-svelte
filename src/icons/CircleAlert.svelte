@@ -1,5 +1,5 @@
 <script>
-  import CircleAlert from '../svg/circle-alert.svg';
+  import CircleAlert from '../svg-clean/circle-alert.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

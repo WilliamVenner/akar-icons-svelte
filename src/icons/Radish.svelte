@@ -1,5 +1,5 @@
 <script>
-  import Radish from '../svg/radish.svg';
+  import Radish from '../svg-clean/radish.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

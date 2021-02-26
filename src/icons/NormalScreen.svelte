@@ -1,5 +1,5 @@
 <script>
-  import NormalScreen from '../svg/normal-screen.svg';
+  import NormalScreen from '../svg-clean/normal-screen.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Person from '../svg/person.svg';
+  import Person from '../svg-clean/person.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

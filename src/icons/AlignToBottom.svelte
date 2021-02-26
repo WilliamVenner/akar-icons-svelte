@@ -1,5 +1,5 @@
 <script>
-  import AlignToBottom from '../svg/align-to-bottom.svg';
+  import AlignToBottom from '../svg-clean/align-to-bottom.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

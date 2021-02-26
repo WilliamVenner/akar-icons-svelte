@@ -1,5 +1,5 @@
 <script>
-  import FaceVeryHappy from '../svg/face-very-happy.svg';
+  import FaceVeryHappy from '../svg-clean/face-very-happy.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

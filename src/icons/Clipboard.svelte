@@ -1,5 +1,5 @@
 <script>
-  import Clipboard from '../svg/clipboard.svg';
+  import Clipboard from '../svg-clean/clipboard.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

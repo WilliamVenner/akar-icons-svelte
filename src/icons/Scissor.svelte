@@ -1,5 +1,5 @@
 <script>
-  import Scissor from '../svg/scissor.svg';
+  import Scissor from '../svg-clean/scissor.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

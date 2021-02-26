@@ -1,5 +1,5 @@
 <script>
-  import MoreHorizontal from '../svg/more-horizontal.svg';
+  import MoreHorizontal from '../svg-clean/more-horizontal.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

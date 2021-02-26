@@ -1,5 +1,5 @@
 <script>
-  import AndroidFill from '../svg/android-fill.svg';
+  import AndroidFill from '../svg-clean/android-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

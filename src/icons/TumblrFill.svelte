@@ -1,5 +1,5 @@
 <script>
-  import TumblrFill from '../svg/tumblr-fill.svg';
+  import TumblrFill from '../svg-clean/tumblr-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

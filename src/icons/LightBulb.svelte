@@ -1,5 +1,5 @@
 <script>
-  import LightBulb from '../svg/light-bulb.svg';
+  import LightBulb from '../svg-clean/light-bulb.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

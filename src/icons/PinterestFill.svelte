@@ -1,5 +1,5 @@
 <script>
-  import PinterestFill from '../svg/pinterest-fill.svg';
+  import PinterestFill from '../svg-clean/pinterest-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

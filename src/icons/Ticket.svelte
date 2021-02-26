@@ -1,5 +1,5 @@
 <script>
-  import Ticket from '../svg/ticket.svg';
+  import Ticket from '../svg-clean/ticket.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

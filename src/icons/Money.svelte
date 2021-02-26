@@ -1,5 +1,5 @@
 <script>
-  import Money from '../svg/money.svg';
+  import Money from '../svg-clean/money.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

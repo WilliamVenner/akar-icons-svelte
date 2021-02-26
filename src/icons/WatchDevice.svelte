@@ -1,5 +1,5 @@
 <script>
-  import WatchDevice from '../svg/watch-device.svg';
+  import WatchDevice from '../svg-clean/watch-device.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

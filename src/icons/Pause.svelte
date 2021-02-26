@@ -1,5 +1,5 @@
 <script>
-  import Pause from '../svg/pause.svg';
+  import Pause from '../svg-clean/pause.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

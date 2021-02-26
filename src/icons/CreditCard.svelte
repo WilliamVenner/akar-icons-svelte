@@ -1,5 +1,5 @@
 <script>
-  import CreditCard from '../svg/credit-card.svg';
+  import CreditCard from '../svg-clean/credit-card.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

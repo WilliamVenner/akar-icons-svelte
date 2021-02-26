@@ -1,5 +1,5 @@
 <script>
-  import Bluetooth from '../svg/bluetooth.svg';
+  import Bluetooth from '../svg-clean/bluetooth.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

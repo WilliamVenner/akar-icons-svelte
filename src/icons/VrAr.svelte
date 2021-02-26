@@ -1,5 +1,5 @@
 <script>
-  import VrAr from '../svg/vr-ar.svg';
+  import VrAr from '../svg-clean/vr-ar.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

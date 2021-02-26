@@ -1,5 +1,5 @@
 <script>
-  import FaceNeutral from '../svg/face-neutral.svg';
+  import FaceNeutral from '../svg-clean/face-neutral.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

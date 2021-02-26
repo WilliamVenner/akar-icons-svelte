@@ -1,5 +1,5 @@
 <script>
-  import Phone from '../svg/phone.svg';
+  import Phone from '../svg-clean/phone.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

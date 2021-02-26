@@ -1,5 +1,5 @@
 <script>
-  import Hashtag from '../svg/hashtag.svg';
+  import Hashtag from '../svg-clean/hashtag.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

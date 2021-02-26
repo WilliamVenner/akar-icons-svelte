@@ -1,5 +1,5 @@
 <script>
-  import Flag from '../svg/flag.svg';
+  import Flag from '../svg-clean/flag.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

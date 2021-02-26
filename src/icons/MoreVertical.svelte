@@ -1,5 +1,5 @@
 <script>
-  import MoreVertical from '../svg/more-vertical.svg';
+  import MoreVertical from '../svg-clean/more-vertical.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

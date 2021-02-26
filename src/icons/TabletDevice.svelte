@@ -1,5 +1,5 @@
 <script>
-  import TabletDevice from '../svg/tablet-device.svg';
+  import TabletDevice from '../svg-clean/tablet-device.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

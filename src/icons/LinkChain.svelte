@@ -1,5 +1,5 @@
 <script>
-  import LinkChain from '../svg/link-chain.svg';
+  import LinkChain from '../svg-clean/link-chain.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

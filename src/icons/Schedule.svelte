@@ -1,5 +1,5 @@
 <script>
-  import Schedule from '../svg/schedule.svg';
+  import Schedule from '../svg-clean/schedule.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Draft from '../svg/draft.svg';
+  import Draft from '../svg-clean/draft.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

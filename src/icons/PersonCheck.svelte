@@ -1,5 +1,5 @@
 <script>
-  import PersonCheck from '../svg/person-check.svg';
+  import PersonCheck from '../svg-clean/person-check.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

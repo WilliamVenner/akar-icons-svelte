@@ -1,5 +1,5 @@
 <script>
-  import CommentAdd from '../svg/comment-add.svg';
+  import CommentAdd from '../svg-clean/comment-add.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

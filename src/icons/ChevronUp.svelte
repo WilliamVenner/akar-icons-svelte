@@ -1,5 +1,5 @@
 <script>
-  import ChevronUp from '../svg/chevron-up.svg';
+  import ChevronUp from '../svg-clean/chevron-up.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

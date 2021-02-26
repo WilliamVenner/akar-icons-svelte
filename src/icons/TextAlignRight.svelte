@@ -1,5 +1,5 @@
 <script>
-  import TextAlignRight from '../svg/text-align-right.svg';
+  import TextAlignRight from '../svg-clean/text-align-right.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

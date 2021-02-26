@@ -1,5 +1,5 @@
 <script>
-  import Plus from '../svg/plus.svg';
+  import Plus from '../svg-clean/plus.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import ArrowCounterClockwise from '../svg/arrow-counter-clockwise.svg';
+  import ArrowCounterClockwise from '../svg-clean/arrow-counter-clockwise.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import TriangleUp from '../svg/triangle-up.svg';
+  import TriangleUp from '../svg-clean/triangle-up.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

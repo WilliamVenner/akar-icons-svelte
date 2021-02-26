@@ -1,5 +1,5 @@
 <script>
-  import CircleX from '../svg/circle-x.svg';
+  import CircleX from '../svg-clean/circle-x.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

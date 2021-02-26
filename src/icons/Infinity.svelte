@@ -1,5 +1,5 @@
 <script>
-  import Infinity from '../svg/infinity.svg';
+  import Infinity from '../svg-clean/infinity.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

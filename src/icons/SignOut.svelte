@@ -1,5 +1,5 @@
 <script>
-  import SignOut from '../svg/sign-out.svg';
+  import SignOut from '../svg-clean/sign-out.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

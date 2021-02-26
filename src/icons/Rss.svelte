@@ -1,5 +1,5 @@
 <script>
-  import Rss from '../svg/rss.svg';
+  import Rss from '../svg-clean/rss.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

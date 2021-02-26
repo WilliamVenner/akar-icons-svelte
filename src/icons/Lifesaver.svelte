@@ -1,5 +1,5 @@
 <script>
-  import Lifesaver from '../svg/lifesaver.svg';
+  import Lifesaver from '../svg-clean/lifesaver.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

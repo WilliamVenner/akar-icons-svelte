@@ -1,5 +1,5 @@
 <script>
-  import TriangleLeft from '../svg/triangle-left.svg';
+  import TriangleLeft from '../svg-clean/triangle-left.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

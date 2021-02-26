@@ -1,5 +1,5 @@
 <script>
-  import Pencil from '../svg/pencil.svg';
+  import Pencil from '../svg-clean/pencil.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

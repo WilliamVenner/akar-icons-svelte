@@ -1,5 +1,5 @@
 <script>
-  import Height from '../svg/height.svg';
+  import Height from '../svg-clean/height.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

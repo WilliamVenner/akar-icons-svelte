@@ -1,5 +1,5 @@
 <script>
-  import Bell from '../svg/bell.svg';
+  import Bell from '../svg-clean/bell.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

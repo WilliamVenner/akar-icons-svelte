@@ -1,5 +1,5 @@
 <script>
-  import Star from '../svg/star.svg';
+  import Star from '../svg-clean/star.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Utensils from '../svg/utensils.svg';
+  import Utensils from '../svg-clean/utensils.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

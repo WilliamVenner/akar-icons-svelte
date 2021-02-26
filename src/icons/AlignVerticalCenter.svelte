@@ -1,5 +1,5 @@
 <script>
-  import AlignVerticalCenter from '../svg/align-vertical-center.svg';
+  import AlignVerticalCenter from '../svg-clean/align-vertical-center.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

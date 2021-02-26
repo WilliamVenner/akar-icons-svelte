@@ -1,5 +1,5 @@
 <script>
-  import Thunder from '../svg/thunder.svg';
+  import Thunder from '../svg-clean/thunder.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

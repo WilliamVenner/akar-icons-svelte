@@ -1,5 +1,5 @@
 <script>
-  import Book from '../svg/book.svg';
+  import Book from '../svg-clean/book.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import ArrowLeftThick from '../svg/arrow-left-thick.svg';
+  import ArrowLeftThick from '../svg-clean/arrow-left-thick.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

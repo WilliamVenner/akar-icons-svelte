@@ -1,5 +1,5 @@
 <script>
-  import TextAlignCenter from '../svg/text-align-center.svg';
+  import TextAlignCenter from '../svg-clean/text-align-center.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

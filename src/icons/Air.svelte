@@ -1,5 +1,5 @@
 <script>
-  import Air from '../svg/air.svg';
+  import Air from '../svg-clean/air.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

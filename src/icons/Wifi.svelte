@@ -1,5 +1,5 @@
 <script>
-  import Wifi from '../svg/wifi.svg';
+  import Wifi from '../svg-clean/wifi.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import BatteryMedium from '../svg/battery-medium.svg';
+  import BatteryMedium from '../svg-clean/battery-medium.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

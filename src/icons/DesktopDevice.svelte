@@ -1,5 +1,5 @@
 <script>
-  import DesktopDevice from '../svg/desktop-device.svg';
+  import DesktopDevice from '../svg-clean/desktop-device.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

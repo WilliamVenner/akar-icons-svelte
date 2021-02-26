@@ -1,5 +1,5 @@
 <script>
-  import AlignHorizontalCenter from '../svg/align-horizontal-center.svg';
+  import AlignHorizontalCenter from '../svg-clean/align-horizontal-center.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

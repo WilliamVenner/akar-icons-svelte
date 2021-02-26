@@ -1,5 +1,5 @@
 <script>
-  import Heart from '../svg/heart.svg';
+  import Heart from '../svg-clean/heart.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

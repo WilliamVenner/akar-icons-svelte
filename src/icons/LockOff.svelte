@@ -1,5 +1,5 @@
 <script>
-  import LockOff from '../svg/lock-off.svg';
+  import LockOff from '../svg-clean/lock-off.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

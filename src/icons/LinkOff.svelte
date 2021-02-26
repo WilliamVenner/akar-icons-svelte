@@ -1,5 +1,5 @@
 <script>
-  import LinkOff from '../svg/link-off.svg';
+  import LinkOff from '../svg-clean/link-off.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

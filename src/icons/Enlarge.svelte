@@ -1,5 +1,5 @@
 <script>
-  import Enlarge from '../svg/enlarge.svg';
+  import Enlarge from '../svg-clean/enlarge.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

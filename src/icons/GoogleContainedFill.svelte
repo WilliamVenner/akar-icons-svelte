@@ -1,5 +1,5 @@
 <script>
-  import GoogleContainedFill from '../svg/google-contained-fill.svg';
+  import GoogleContainedFill from '../svg-clean/google-contained-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

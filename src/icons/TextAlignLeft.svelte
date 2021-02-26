@@ -1,5 +1,5 @@
 <script>
-  import TextAlignLeft from '../svg/text-align-left.svg';
+  import TextAlignLeft from '../svg-clean/text-align-left.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

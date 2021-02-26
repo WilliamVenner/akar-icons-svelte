@@ -1,5 +1,5 @@
 <script>
-  import Minus from '../svg/minus.svg';
+  import Minus from '../svg-clean/minus.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

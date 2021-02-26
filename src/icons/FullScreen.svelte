@@ -1,5 +1,5 @@
 <script>
-  import FullScreen from '../svg/full-screen.svg';
+  import FullScreen from '../svg-clean/full-screen.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

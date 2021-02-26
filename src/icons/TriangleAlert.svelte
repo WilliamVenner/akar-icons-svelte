@@ -1,5 +1,5 @@
 <script>
-  import TriangleAlert from '../svg/triangle-alert.svg';
+  import TriangleAlert from '../svg-clean/triangle-alert.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

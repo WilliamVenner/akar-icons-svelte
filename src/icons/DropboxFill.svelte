@@ -1,5 +1,5 @@
 <script>
-  import DropboxFill from '../svg/dropbox-fill.svg';
+  import DropboxFill from '../svg-clean/dropbox-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

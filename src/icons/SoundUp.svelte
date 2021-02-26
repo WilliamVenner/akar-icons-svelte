@@ -1,5 +1,5 @@
 <script>
-  import SoundUp from '../svg/sound-up.svg';
+  import SoundUp from '../svg-clean/sound-up.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

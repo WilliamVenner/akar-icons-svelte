@@ -1,5 +1,5 @@
 <script>
-  import TriangleDown from '../svg/triangle-down.svg';
+  import TriangleDown from '../svg-clean/triangle-down.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

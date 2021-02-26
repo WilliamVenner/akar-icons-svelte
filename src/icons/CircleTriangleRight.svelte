@@ -1,5 +1,5 @@
 <script>
-  import CircleTriangleRight from '../svg/circle-triangle-right.svg';
+  import CircleTriangleRight from '../svg-clean/circle-triangle-right.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

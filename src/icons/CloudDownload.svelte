@@ -1,5 +1,5 @@
 <script>
-  import CloudDownload from '../svg/cloud-download.svg';
+  import CloudDownload from '../svg-clean/cloud-download.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

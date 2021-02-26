@@ -1,5 +1,5 @@
 <script>
-  import Trophy from '../svg/trophy.svg';
+  import Trophy from '../svg-clean/trophy.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

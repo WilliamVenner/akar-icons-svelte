@@ -1,5 +1,5 @@
 <script>
-  import FigmaFill from '../svg/figma-fill.svg';
+  import FigmaFill from '../svg-clean/figma-fill.svg';
   export let size = "24";
   export let color = "currentColor";
 </script>

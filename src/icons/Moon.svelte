@@ -1,5 +1,5 @@
 <script>
-  import Moon from '../svg/moon.svg';
+  import Moon from '../svg-clean/moon.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

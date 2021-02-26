@@ -1,5 +1,5 @@
 <script>
-  import Airpods from '../svg/airpods.svg';
+  import Airpods from '../svg-clean/airpods.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

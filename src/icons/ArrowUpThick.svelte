@@ -1,5 +1,5 @@
 <script>
-  import ArrowUpThick from '../svg/arrow-up-thick.svg';
+  import ArrowUpThick from '../svg-clean/arrow-up-thick.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Sun from '../svg/sun.svg';
+  import Sun from '../svg-clean/sun.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

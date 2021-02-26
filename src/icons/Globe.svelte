@@ -1,5 +1,5 @@
 <script>
-  import Globe from '../svg/globe.svg';
+  import Globe from '../svg-clean/globe.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

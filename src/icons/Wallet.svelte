@@ -1,5 +1,5 @@
 <script>
-  import Wallet from '../svg/wallet.svg';
+  import Wallet from '../svg-clean/wallet.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

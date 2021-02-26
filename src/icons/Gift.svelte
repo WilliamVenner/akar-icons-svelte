@@ -1,5 +1,5 @@
 <script>
-  import Gift from '../svg/gift.svg';
+  import Gift from '../svg-clean/gift.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

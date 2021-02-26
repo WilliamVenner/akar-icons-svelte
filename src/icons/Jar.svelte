@@ -1,5 +1,5 @@
 <script>
-  import Jar from '../svg/jar.svg';
+  import Jar from '../svg-clean/jar.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

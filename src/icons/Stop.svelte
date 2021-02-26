@@ -1,5 +1,5 @@
 <script>
-  import Stop from '../svg/stop.svg';
+  import Stop from '../svg-clean/stop.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Question from '../svg/question.svg';
+  import Question from '../svg-clean/question.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Leaf from '../svg/leaf.svg';
+  import Leaf from '../svg-clean/leaf.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

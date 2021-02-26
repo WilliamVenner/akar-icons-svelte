@@ -1,5 +1,5 @@
 <script>
-  import RockOn from '../svg/rock-on.svg';
+  import RockOn from '../svg-clean/rock-on.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

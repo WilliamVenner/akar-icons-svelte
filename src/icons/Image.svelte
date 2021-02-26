@@ -1,5 +1,5 @@
 <script>
-  import Image from '../svg/image.svg';
+  import Image from '../svg-clean/image.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

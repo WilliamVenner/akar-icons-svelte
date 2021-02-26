@@ -1,5 +1,5 @@
 <script>
-  import Headphone from '../svg/headphone.svg';
+  import Headphone from '../svg-clean/headphone.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

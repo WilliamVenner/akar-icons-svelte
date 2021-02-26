@@ -1,5 +1,5 @@
 <script>
-  import Calendar from '../svg/calendar.svg';
+  import Calendar from '../svg-clean/calendar.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

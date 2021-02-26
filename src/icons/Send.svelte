@@ -1,5 +1,5 @@
 <script>
-  import Send from '../svg/send.svg';
+  import Send from '../svg-clean/send.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

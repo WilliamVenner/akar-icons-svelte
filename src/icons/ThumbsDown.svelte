@@ -1,5 +1,5 @@
 <script>
-  import ThumbsDown from '../svg/thumbs-down.svg';
+  import ThumbsDown from '../svg-clean/thumbs-down.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import PointingUp from '../svg/pointing-up.svg';
+  import PointingUp from '../svg-clean/pointing-up.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

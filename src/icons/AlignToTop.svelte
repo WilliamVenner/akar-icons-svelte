@@ -1,5 +1,5 @@
 <script>
-  import AlignToTop from '../svg/align-to-top.svg';
+  import AlignToTop from '../svg-clean/align-to-top.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import Chess from '../svg/chess.svg';
+  import Chess from '../svg-clean/chess.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

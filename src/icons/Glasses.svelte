@@ -1,5 +1,5 @@
 <script>
-  import Glasses from '../svg/glasses.svg';
+  import Glasses from '../svg-clean/glasses.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

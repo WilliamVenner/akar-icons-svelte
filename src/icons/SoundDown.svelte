@@ -1,5 +1,5 @@
 <script>
-  import SoundDown from '../svg/sound-down.svg';
+  import SoundDown from '../svg-clean/sound-down.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

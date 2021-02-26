@@ -1,5 +1,5 @@
 <script>
-  import Tag from '../svg/tag.svg';
+  import Tag from '../svg-clean/tag.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

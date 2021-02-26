@@ -1,5 +1,5 @@
 <script>
-  import AlignRight from '../svg/align-right.svg';
+  import AlignRight from '../svg-clean/align-right.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

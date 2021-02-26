@@ -1,5 +1,5 @@
 <script>
-  import MobileDevice from '../svg/mobile-device.svg';
+  import MobileDevice from '../svg-clean/mobile-device.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

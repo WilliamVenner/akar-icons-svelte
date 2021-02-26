@@ -1,5 +1,5 @@
 <script>
-  import Attach from '../svg/attach.svg';
+  import Attach from '../svg-clean/attach.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

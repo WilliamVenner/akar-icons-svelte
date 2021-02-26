@@ -1,5 +1,5 @@
 <script>
-  import LinkOut from '../svg/link-out.svg';
+  import LinkOut from '../svg-clean/link-out.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

@@ -1,5 +1,5 @@
 <script>
-  import FaceVerySad from '../svg/face-very-sad.svg';
+  import FaceVerySad from '../svg-clean/face-very-sad.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

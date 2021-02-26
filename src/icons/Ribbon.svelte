@@ -1,5 +1,5 @@
 <script>
-  import Ribbon from '../svg/ribbon.svg';
+  import Ribbon from '../svg-clean/ribbon.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";

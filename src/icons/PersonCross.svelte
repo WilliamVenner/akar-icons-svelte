@@ -1,5 +1,5 @@
 <script>
-  import PersonCross from '../svg/person-cross.svg';
+  import PersonCross from '../svg-clean/person-cross.svg';
   export let size = "24";
   export let color = "currentColor";
   export let strokeWidth = "2";
