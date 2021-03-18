@@ -1,3 +1,6 @@
+![npm](https://img.shields.io/npm/v/akar-icons?style=for-the-badge)
+![npm](https://img.shields.io/npm/dm/akar-icons?style=for-the-badge)
+
 <a href="https://akaricons.com" target="_blank">
   <img alt="akar icons" src="https://repository-images.githubusercontent.com/306119910/c3a57000-2be0-11eb-88a2-2714f9bafcd4">
 </a>
@@ -9,6 +12,8 @@ A perfectly rounded icon library made for designers, developers, and pretty much
 
 ## For Designers
 Explore all icons at [akaricons.com](https://akaricons.com). Simply click the icon you'd like to use and paste it to your favorite application (Figma, Sketch, XD).
+
+---
 
 ## For developers
 Akar icons are currently available as individual React components. Start using it today.

@@ -222,3 +222,6 @@ export { default as Wifi } from './icons/Wifi.svelte';
 export { default as YoutubeFill } from './icons/YoutubeFill.svelte';
 export { default as ZoomIn } from './icons/ZoomIn.svelte';
 export { default as ZoomOut } from './icons/ZoomOut.svelte';
+export { default as Backspace } from './icons/Backspace.svelte';
+export { default as BackspaceFill } from './icons/BackspaceFill.svelte';
+export { default as Edit } from './icons/Edit.svelte';
