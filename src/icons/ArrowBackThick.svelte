@@ -1,6 +1,6 @@
 <script>
   import ArrowBackThick from '../svg-clean/arrow-back-thick.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
   export let strokeWidth = "2";
   export let strokeLinecap="round";

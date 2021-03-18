@@ -1,6 +1,6 @@
 <script>
   import ArrowUpRight from '../svg-clean/arrow-up-right.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
   export let strokeWidth = "2";
   export let strokeLinecap="round";

@@ -1,6 +1,6 @@
 <script>
   import CircleMinus from '../svg-clean/circle-minus.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
   export let strokeWidth = "2";
   export let strokeLinecap="round";

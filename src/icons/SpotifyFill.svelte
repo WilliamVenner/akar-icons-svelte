@@ -1,6 +1,6 @@
 <script>
   import SpotifyFill from '../svg-clean/spotify-fill.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
 
   let _class;

@@ -1,6 +1,6 @@
 <script>
   import CircleFill from '../svg-clean/circle-fill.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
 
   let _class;

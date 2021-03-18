@@ -1,6 +1,6 @@
 <script>
   import Trophy from '../svg-clean/trophy.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
   export let strokeWidth = "2";
   export let strokeLinecap="round";

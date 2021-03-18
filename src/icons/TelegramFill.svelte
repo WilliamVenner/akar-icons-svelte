@@ -1,6 +1,6 @@
 <script>
   import TelegramFill from '../svg-clean/telegram-fill.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
 
   let _class;

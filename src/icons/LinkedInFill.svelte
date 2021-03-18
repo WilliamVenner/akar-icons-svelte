@@ -1,6 +1,6 @@
 <script>
   import LinkedInFill from '../svg-clean/linkedIn-fill.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
 
   let _class;

@@ -1,6 +1,6 @@
 <script>
   import TriangleUp from '../svg-clean/triangle-up.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
   export let strokeWidth = "2";
   export let strokeLinecap="round";

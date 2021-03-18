@@ -49,7 +49,7 @@ fs.readdir('./src/svg', (err, files) => {
 // FILLED
 `<script>
   import ${component} from '../svg-clean/${svg}.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
 
   let _class;
@@ -68,7 +68,7 @@ fs.readdir('./src/svg', (err, files) => {
 // STROKED
 `<script>
   import ${component} from '../svg-clean/${svg}.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
   export let strokeWidth = "2";
   export let strokeLinecap="round";

@@ -1,6 +1,6 @@
 <script>
   import TrashCan from '../svg-clean/trash-can.svg';
-  export let size = "24";
+  export let size = null;
   export let color = "currentColor";
   export let strokeWidth = "2";
   export let strokeLinecap="round";
