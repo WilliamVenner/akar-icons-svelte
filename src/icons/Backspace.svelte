@@ -1,0 +1,22 @@
+<script>
+  import Backspace from '../svg-clean/backspace.svg';
+  export let size = null;
+  export let color = "currentColor";
+  export let strokeWidth = "2";
+  export let strokeLinecap="round";
+  export let strokeLinejoin="round";
+
+  let _class;
+  export { _class as class };
+</script>
+
+<Backspace
+  class={`icon ${_class || ''}`}
+  fill="none"
+  width={size} height={size}
+  stroke={color}
+  stroke-width={strokeWidth}
+  stroke-linecap={strokeLinecap}
+  stroke-linejoin={strokeLinejoin}
+  {...$$props}
+/>
